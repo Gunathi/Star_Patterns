@@ -11,14 +11,4 @@ void main(){
         printf("\n");
         a++;
     }
-
-    printf("\n\n");
-
-    for(i=0; i<5; i++){
-        for(j=5; j>=a; j--){
-            printf("*");
-        }
-        printf("\n");
-    }
-    a--;
 }
