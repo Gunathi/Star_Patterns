@@ -15,6 +15,7 @@ void main() {
         printf("\n");
     }
 
+    printf("\n\n");
 
     /*  *
         * *
@@ -34,6 +35,8 @@ void main() {
         }
         printf("\n");
     }
+    
+    printf("\n\n");
 
     /*           *
                * *
@@ -53,6 +56,8 @@ void main() {
         }
         printf("\n");
     }
+    
+    printf("\n\n");
 
     /*      *
            * *
@@ -73,6 +78,8 @@ void main() {
         }
         printf("\n");
     }
+    
+    printf("\n\n");
 
     /*      *
           * * *
